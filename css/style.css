@@ -844,4 +844,8 @@ a:focus {
 		line-height: 14px;
 		font-size: 10px;
 	}
+	
+	.slider .page-down {
+		bottom: 100px;
+	}
 }
